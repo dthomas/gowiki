@@ -1,0 +1,1 @@
+Welcome to Go Wiki. You might want to read about [Google] or check [TestPage].
